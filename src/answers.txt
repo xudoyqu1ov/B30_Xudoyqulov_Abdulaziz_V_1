@@ -1,0 +1,12 @@
+1.     Queque malumatlarni Arrayda saqlaydi Queque FIFO yani first in first out brinci kirgan birinci cqadi
+Queque bilan DeQuequeni farqi Quequeni faqat br tarafdan qowa olamiz va br tarafdan olamiz
+DeQuequeda esa ikkala tarafdan ham qowb ikkala tarafdan ham olsak boladi
+
+2.  HashMap Arrayda Node tipidagi malumotlarni saqlaydi
+Node ning key hamda value si boladi ularni arrayga saqlawda owa keyning hashcodeni Array uzunligiga bolib
+qoldiq qolgan son Arrayning owa sondagi yacheykasiga joylaydi Agar owa yacheykada malumot bolsa uning nextga saqlaydi
+Array  uzunligini 0.75 qismi tolganida Array uzunligi owiriladi va owa naxtda turganlarning malum qismi ham
+alohida yangi yacheykalarga joylashadi
+
+3.  Enumdan dasturimiz run bolgannidan tugagunga qadar ozgarmaydigan constantalar un iwlatamiz
+uning qulayliklari owa Enum classimizni ichiga kirib ozgartirmasak bowqa joyda ozgartirolniniz
