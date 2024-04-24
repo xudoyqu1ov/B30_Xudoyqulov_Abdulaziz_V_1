@@ -2,9 +2,6 @@ import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class Task {
-    public static void main(String[] args) {
-
-    }
 
     static public ArrayList<Integer> evenOrOdd(int[] nums){
         ArrayList<Integer> res = new ArrayList<>();

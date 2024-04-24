@@ -2,7 +2,7 @@ import java.lang.reflect.Array;
 import java.util.Objects;
 
 public class WordsArray {
-    public int returnCouple(String[] words){
+    public static int returnCouple(String[] words){
         int count = 0;
         for (int i = 0; i < words.length-1; i++) {
 
