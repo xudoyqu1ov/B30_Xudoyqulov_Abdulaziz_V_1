@@ -12,3 +12,9 @@ alohida yangi yacheykalarga joylashadi
 uning qulayliklari owa Enum classimizni ichiga kirib ozgartirmasak bowqa joyda ozgartirolniniz
 
 4.
+                                    Throw
+                                    /    \
+                            Exception    Error -> MemoryOf -> ->
+                          /    \
+                   RunTime   CompilerTime
+                   /     \     /       \
