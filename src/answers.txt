@@ -1,0 +1,3 @@
+1.     Queque malumatlarni Arrayda saqlaydi Queque FIFO yani first in first out brinci kirgan birinci cqadi
+Queque bilan DeQuequeni farqi Quequeni faqat br tarafdan qowa olamiz va br tarafdan olamiz
+DeQuequeda esa ikkala tarafdan ham qowb ikkala tarafdan ham olsak boladi
