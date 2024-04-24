@@ -10,3 +10,5 @@ alohida yangi yacheykalarga joylashadi
 
 3.  Enumdan dasturimiz run bolgannidan tugagunga qadar ozgarmaydigan constantalar un iwlatamiz
 uning qulayliklari owa Enum classimizni ichiga kirib ozgartirmasak bowqa joyda ozgartirolniniz
+
+4.
